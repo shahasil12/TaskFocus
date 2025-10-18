@@ -1,8 +1,9 @@
 {
-  "homepage": "https://shahasil12.github.io/TaskFocus",
+ 
 
   "name": "taskfocus",
   "private": true,
+   "homepage": "https://shahasil12.github.io/TaskFocus",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
