@@ -1,5 +1,7 @@
 {
-  "name": "taskbuddy",
+  "homepage": "https://shahasil12.github.io/TaskFocus",
+
+  "name": "taskfocus",
   "private": true,
   "version": "0.0.0",
   "type": "module",
